@@ -10,9 +10,5 @@
   rg3 = {
     name     = "rg3"
     location = "central india"
-  }
-  rg4 = {
-    name     = "rg4"
-    location = "central india"
-  }
+}
 }
